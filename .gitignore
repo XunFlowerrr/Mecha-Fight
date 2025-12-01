@@ -1,0 +1,19 @@
+# ignores following folders
+bin/
+build/
+out/
+*/.DS_Store
+example/
+
+# CMake build artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.a
+compile_commands.json
+**/.DS_Store
+.cache/
+.DS_Store
+dist
+resources/
