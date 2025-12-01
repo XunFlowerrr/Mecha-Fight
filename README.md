@@ -6,6 +6,9 @@
 
 Designed to demonstrate the fundamentals of computer graphics, this project utilizes Basic OpenGL to render an immersive combat environment. Players pilot a high-tech Mecha unit, tasked with defending humanity against an onslaught of hostile Alien Mechs.
 
+## itch.io Page
+https://xunflowerrr.itch.io/mecha-fight
+
 ## Preview
 ![Mecha Fight Preview](./preview/preview-1.jpg)
 ![Mecha Fight Preview](./preview/preview-2.jpg)
