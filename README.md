@@ -17,7 +17,7 @@ Designed to demonstrate the fundamentals of computer graphics, this project util
 ![Mecha Fight Video Preview](./preview/preview-gif.gif)
 
 <video width="640" height="360" controls>
-  <source src="./preview/demo-vid-meha-fight.mp4" type="video/mp4">
+  <source src="https://youtu.be/iAAq0SiPZKM?si=wnZGwxaAzWnDAgwY" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
